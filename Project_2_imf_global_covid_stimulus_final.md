@@ -8,7 +8,7 @@ This project will explore common data cleaning tasks such as dealing with:
 - categorical constraints, 
 - text data,
 - cross field validation, and 
-- complteness.
+- completeness.
 
 ## 2. The data
 
